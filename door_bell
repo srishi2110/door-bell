@@ -1,0 +1,32 @@
+EXP:- DOORBELL USING BUZZER AND ARDUINO
+Concept Used : -
+A circuit is made in which 2 digital pins are used where a pin (lets say 7) is
+connected to a buzzer which is further connected to ground. Now another pin
+(lets say 12) is connected to switch. One end of the switch is connected to 5V
+supply and intersection of pin 12 and switch is connected to resistor which is
+connected to ground from another end. Value of resistance is very high. The
+resistors are used to resist the flow of current. Coding is done in such a way that
+when switch is pressed buzzer starts making sound and again when switch is
+pressed buzzer do not make any sound. 
+Learning and Observations : -
+ Making circuits using Arduino.
+ Connecting buzzer and switch with arduino.
+ Ground has least resistance.
+ Working of Arduino UNO.
+ Coding to be done on Arduino.exe for stimulation of the experiment.
+Problems & Troubleshooting: –
+No problem occurred during the execution of the experiment.
+Precautions :–
+1. The circuit made can be wrong.
+2. Any Element used may be defective.
+3. The coding done can be incorrect due to which stimulation can be failed.
+4. Port Selection for Arduino can be incorrect due to which it won’t upload on
+Arduino Board and resulting in failure of experiment.
+Learning Outcomes: –
+1. Setting up circuit on a Arduino.
+2. Connecting switch, buzzer and Arduino.
+3. Using switch and buzzer.
+4. Working and coding of Arduino. 
+Result: –
+Working of buzzer and switch verified after uploading the program. Door bell is
+ready to ring. 
